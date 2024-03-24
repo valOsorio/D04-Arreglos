@@ -1,0 +1,41 @@
+.main-section {
+    background-image: url('../img/img-main.jpeg');
+    background-size: cover; /* La imagen cubrirá todo el ancho y largo */
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+}
+.main-section-sale {
+    background-image: url('../img/main-img-sale2.jpeg');
+    background-size: cover; /* La imagen cubrirá todo el ancho y largo */
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+}
+.main-section-rent {
+    background-image: url('../img/main-img-rent.jpeg');
+    background-size: cover; /* La imagen cubrirá todo el ancho y largo */
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+}
+
+.card {
+    height: 100px;
+}
+
+.card img{
+    height: 250px;
+}
